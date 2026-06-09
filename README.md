@@ -1,4 +1,4 @@
-# otimizacaowindowos
+# Otimização Windows
 Script em Batch para automatizar a manutenção preventiva de computadores Windows! 
 
 O que o script faz?
